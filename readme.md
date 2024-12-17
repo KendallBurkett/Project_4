@@ -31,7 +31,10 @@ The selected companies include industry leaders, ensuring diverse representation
 1. Clone this repository or download the project files.
 
 2. Install the necessary dependancies:
-```bash pip install -r requirements.txt
+
+	```bash 
+	
+	pip install -r requirements.txt
 
 3. Open the Jupyter Notebook (e.g. data_fetching.ipynb) to follow along with the code and visualizations.
 
@@ -468,4 +471,4 @@ Implications:
 
 • While they require more computational resources and preprocessing, the trade-off is justified by their accuracy and robustness.
 
-• Investors and financial analysts could leverage LSTM models to develop predictive tools for decision-making and risk management.
+• Investors and financial analysts could leverage LSTM models to develop predictive tools for decision-making and risk management. 
